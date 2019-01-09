@@ -59,6 +59,9 @@ str()
 ```python
 'I have eaten ' + 99 + ' burritos.'
 # because 99 is an int and can't concatenate str with int
+```
+
+```python
 # the fix is:
 'I have eaten ' + str(99) + ' burritos.'
 ```
