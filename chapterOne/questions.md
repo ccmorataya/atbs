@@ -1,5 +1,5 @@
 1. Which of the following are operators, and wich are values?
-```
+```python
 *
 'hello'
 -88.8
@@ -9,7 +9,7 @@
 5
 ```
 2. Which of the following is a variable, and which is a string?
-```
+```python
 spam
 'spam'
 ```
@@ -20,12 +20,12 @@ spam
 5. This chapter introduced assignment statements, like `spam = 10`. What is the difference between an expression and a statement?
 
 6. What does the variable `bacon` contain after the following code runs?
-```
+```python
 bacon = 20
 bacon + 1
 ```
 7. What should the following two expressions evaluate to?
-```
+```python
 'spam' + 'spamspam'
 'spam' * 3
 ```
@@ -34,6 +34,6 @@ bacon + 1
 9. What three functions can be used to get the integer, floating-point number, or string version of a value?
 
 10. Why does this expression cause an error? How can you fix it?
-```
+```python
 'I have eaten ' + 99 + ' burritos.'
 ```
